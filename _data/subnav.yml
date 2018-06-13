@@ -17,6 +17,12 @@ subnav:
         url: workers/baker
       - page: Builder
         url: workers/builder
+      - page: ChickenHerder
+        url: workers/ChickenHerder
+      - page: Cook
+        url: workers/Cook
+      - page: Cowboy
+        url: workers/Cowboy
       - page: Deliveryman
         url: workers/deliveryman
       - page: Farmer
@@ -29,6 +35,10 @@ subnav:
         url: workers/lumberjack
       - page: Miner
         url: workers/miner
+      - page: Shepherd
+        url: workers/Shepherd
+      - page: SwineHerder
+        url: workers/SwineHerder
       - page: Smelter
         url: workers/smelter 
   - title: Buildings
